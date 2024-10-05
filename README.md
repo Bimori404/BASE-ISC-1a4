@@ -1,4 +1,4 @@
-# Ingeniería en Sistemas Computacionales - Semestres 1 a 4
+# Ingeniería en Sistemas Computacionales - De 1er a 4to semestre
 
 Este repositorio contiene el material y recursos relacionados con las asignaturas cursadas durante los primeros cuatro semestres de la carrera de Ingeniería en Sistemas Computacionales.
 
