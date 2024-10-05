@@ -1,0 +1,73 @@
+---------------------------------------------unidimencionales---------------------------------------------------------------------------------------
+
+//1.-programa de tipo int en donde se puedan ingresar n numeros
+//2.-programa de tipo string en donde se puedan ingresar n nombres
+
+//3.-programa de boolean en donde se puedan ingresar n true o false
+//4.-programa de float en donde se puedan ingresar n  numeros
+//5.-programa de double en donde se puedan ingresar n  numeros
+//6.-programa de char en donde se puedan ingresar n  caracteres
+//7.-programa de tipo long en donde se puedan ingresar n  numeros
+//8.-programa de tipo short en donde se puedan ingresar n  numeros
+
+//9.-programa en donde se puedan ingresar nombre y edad, si es mayor a 18 en el arreglo booleano se guarda true
+caso contrario un false, mostrar el arreglo
+
+//10.-programa en donde solo se permita ingresar numeros pares y menores de 10, arreglo int
+
+//11.-programa en donde solo se permita ingresar multiplos de 3 y menores de 15, arreglo int
+
+12.-programa en donde se ingrese la fecha de nacimiento y la amacene en un arreglo el signo zodiacal al que pertenese
+
+//13.-programa en donde se ingresen 3 calificaciones y obtenga su promedio, arreglo float
+
+//14.-programa en donde solo se permita ingresar nombres con inicial R
+
+//15.-programa en donde se ingresen n numeros, muestre el numero mayor y en que lugar se localiza
+
+//16.-programa en donde solo se permita ingresar en posiciones pares numeros negativos y en las impares numeros en el rango de 10 a 20, longitud de arreglo ingresada por el usuario
+
+//17.-programa en donde solo se permita ingresar la longitud del arreglo, una vez que se ingresen los elementos mostrar la opcion de ingresar un numero a buscar, si lo encuentra mostrar "exito" sino "intenta otro dia"
+
+/18.-programa en donde almacene la cantidad de dias: ingresar la longitud e ingresar dias, al final mostrar cantidad por dias
+
+------------------------------------------Matriz bidimencional--------------------------------------------------------------
+
+//19.-matriz bidimencional
+
+//20.-crear dos matrizes que sean igual en elementos, se suman para obtener una tercera matriz
+
+//21.-crear una matriz que se llene con nombres
+
+//22.-crear una matriz donde solo se ingresen numeros negativos
+
+//23.-crear una matriz donde solo se ingresen numeros entre 1 y 9
+
+//24.-crear una matriz de longitud n*n=0
+
+//25.-crear una matriz de longitud n que muestre los numeros ingresados y se actualize con un numero definido( 1 ) 
+
+/26.-programa en donde se ingresen numeros pares en las posiciones pares de una matriz
+
+//27.-crear una matriz de longitud n que muestre los numeros ingresados y se actualize su diagonal superior con un numero definido( 0 )
+
+//28.-crear una matriz de longitud n*n y solo permita ingresar multiplos de 9
+
+29.-crear un programa en donde se ingresen filas y columnas, si el número de filas es mayor que las columnas solo permita ingresar números pares, caso contrario solo permita números impares, si es igual filas y columnas permita cualquier numero.
+
+//30.-crear un programa en donde se tenga una matriz n*n donde se ingresen números, una vez ingresados encuentre el número mayor, lo muestre y
+su posición en la matriz.
+
+-------------------------------------------- -------Metodos-----------------------------------------------------------------
+
+//31.-metodo int(suma) y void(saludo)
+
+//32.-programa con metodos que calcule el area de 5 figuras geometricas
+
+//33.-programa con metodos que pueda registrar(nombre, edad, color) y mostrarlos
+
+//34.-programa con metodos que tenga las funciones de una calculadora
+
+35.-programa con metodos quue permita vender n articulos
+
+//36.-programa que sume todos los datos de un arreglo
